@@ -1,0 +1,4 @@
+的情景下觀看 YouTube、谷歌街景或 google earth，只要在以上的 app 中有看到 cardboard 的標誌，就表示這個影像支援 cardboard VR 眼鏡，點下去就可以以 VR
+虛擬實境的情景下觀看 YouTube、谷歌街景或google earth，只要在以上的app中有看到cardboard的標誌，就表示這個影像支援cardboard VR眼鏡，點下去就可以以VR模式觀看
+Lighthouse 方面，Vive 在對角的兩個基站內建了 LED 鏡頭，用於檢測頭盔和手把發射的紅外雷射，進行空間位置追蹤。132017/11/21Oculus Rift(1/4)由Oculus 
+R裝置的位置，被稱為「星座」（Constellation）[32]，具有一部可光學追縱VR裝置的外部紅外線攝影機。Rift或任何其他被此系統追縱的裝置，都在其表面之上或之下配有一系統可精確定位的紅外線

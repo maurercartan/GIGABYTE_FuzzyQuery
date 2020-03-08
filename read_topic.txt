@@ -1,0 +1,1 @@
+vr,cardboard,紅外,外線,紅外線,rift,oculus,手機,指紋,psoc
